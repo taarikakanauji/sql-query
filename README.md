@@ -156,7 +156,7 @@ This dataset is used for practice:
 # **Project Resources:**  
 
 ### **SQL Query**  
-[Insights of Sports Products Tracker Analysis](https://github.com/taarikakanauji/sql-query/blob/main/SQL%20Query.docx)  
+[SQL Query File](https://github.com/taarikakanauji/sql-query/blob/main/SQL%20Query.docx)  
 
 ### **Dataset Folder**  
 [Dataset Files](https://github.com/taarikakanauji/sql-query/tree/main/dataset)  
