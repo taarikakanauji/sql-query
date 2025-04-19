@@ -158,9 +158,6 @@ This dataset is used for practice:
 ### **SQL Query**  
 [SQL Query File](https://github.com/taarikakanauji/sql-query/blob/main/SQL%20Query.docx)  
 
-### **Dataset Folder**  
-[Dataset Files](https://github.com/taarikakanauji/sql-query/tree/main/dataset)  
-
 ### **Project README (Setup Guide)**  
 [README.md](https://github.com/taarikakanauji/sql-query/blob/main/README.md)  
 
